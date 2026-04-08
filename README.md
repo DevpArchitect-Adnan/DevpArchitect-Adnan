@@ -1,16 +1,17 @@
-## Hi there 👋
+Adnan | System Architect & Automation Engineer
 
-<!--
-**DevpArchitect-Adnan/DevpArchitect-Adnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Vision
+Building high-leverage systems that bridge the gap between complex physics simulations and scalable business logic.
 
-Here are some ideas to get you started:
+🛠️ Current Project: [Legacy Architect Core](https://github.com/DevpArchitect-Adnan/legacy-architect-core)
+An automated scaffolding engine that generates:
+* Technical Stacks for rapid prototyping.
+* Business Blueprints for revenue and user mapping.
+* Structural Strategy for physics-based simulations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Tech Stack
+* Language: Python (Automation & Logic)
+* Version Control: Git / GitHub
+* Focus: Applied Engineering | System Architecture | Automation
+
+The best way to predict the future is to architect it.
